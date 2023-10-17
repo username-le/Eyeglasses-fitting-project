@@ -19,7 +19,7 @@ __Как?__
 * Функция compare_faces, которой необходимо передать параметр tolerance (в диапазоне от 0 до 1)
 * Чем меньше порог, тем больше сходство
 
-! [$Пример ;)] (https://github.com/username-le/Eyeglasses-fitting-project/blob/main/Chollet.png)
+! [$Пример] (https://github.com/username-le/Eyeglasses-fitting-project/blob/main/Chollet.png)
 
 __Итог:__
 * Кастомизированное предложение оправы из каталога компании
